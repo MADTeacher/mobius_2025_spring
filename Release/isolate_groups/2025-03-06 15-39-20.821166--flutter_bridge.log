@@ -1,0 +1,30 @@
+2025-03-06 15-39-20.821166 Start listen path: C:\Users\MADTeacher\YandexDisk\Conf\mobius2025Spring\mobius\Release\isolate_groups
+2025-03-06 15-39-20.821166 Start update
+2025-03-06 15-39-20.822168 Finish update
+2025-03-06 15-39-27.844111 {"type":"load","plugin_file":"mul_isolate_group.aot"}
+2025-03-06 15-39-27.844111 mul_isolate_group.aot Start load
+2025-03-06 15-39-27.865108 mul_isolate_group.aot Finish load
+2025-03-06 15-39-31.211231 {"type":"request","firstValue":5,"secondValue":5}
+2025-03-06 15-39-35.345170 {"type":"unload","plugin_file":""}
+2025-03-06 15-39-36.856161 {"type":"load","plugin_file":"add_isolate_group.aot"}
+2025-03-06 15-39-36.856161 add_isolate_group.aot Start load
+2025-03-06 15-39-36.875177 add_isolate_group.aot Finish load
+2025-03-06 15-39-38.655161 {"type":"request","firstValue":5,"secondValue":5}
+2025-03-06 15-39-40.510248 {"type":"unload","plugin_file":""}
+2025-03-06 15-40-01.180244 {"type":"update","plugins":[]}
+2025-03-06 15-40-01.180244 Start update
+2025-03-06 15-40-01.181241 Finish update
+2025-03-06 15-40-04.305830 {"type":"load","plugin_file":"add_isolate_group.aot"}
+2025-03-06 15-40-04.306828 add_isolate_group.aot Start load
+2025-03-06 15-40-04.308827 add_isolate_group.aot Finish load
+2025-03-06 15-40-06.777429 {"type":"request","firstValue":5,"secondValue":7}
+2025-03-06 15-40-13.637462 {"type":"unload","plugin_file":""}
+2025-03-06 15-40-15.165358 {"type":"update","plugins":[]}
+2025-03-06 15-40-15.165358 Start update
+2025-03-06 15-40-15.165358 Finish update
+2025-03-06 15-40-19.683104 {"type":"load","plugin_file":"mul_isolate_group.aot"}
+2025-03-06 15-40-19.683104 mul_isolate_group.aot Start load
+2025-03-06 15-40-19.685094 mul_isolate_group.aot Finish load
+2025-03-06 15-40-21.121272 {"type":"request","firstValue":5,"secondValue":7}
+2025-03-06 15-40-23.713401 {"type":"unload","plugin_file":""}
+2025-03-06 15-40-24.615289 {"type":"stop"}
